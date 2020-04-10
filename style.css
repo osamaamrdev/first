@@ -122,6 +122,56 @@ header p
 
 }
 
+
+
+/*start of magdi session suspend */
+
+
+.suspend
+{
+    background-color: #3498db;
+    color: #aed6f1;
+    padding: 88px 0px 88px 0px;
+    font-family: 'Scope One', serif;
+}
+.suspend h3
+{
+    padding-bottom: 20px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.suspend img
+{
+    width:100% ;
+    border-radius: 50%;
+    margin-left: 45px;
+    border: solid 1px #aed6f1;
+    padding: 7px;
+}
+ 
+.suspend .button
+{
+    background-color: #fff; 
+    color: #3498db !important;
+    border-radius: 4px;
+    display: inline-block;
+    font-weight: 500;
+    height: 2.85em;
+    line-height: 2.95em;
+    padding: 0 1.3em;
+    text-decoration: none;
+}
+
+
+
+
+/*end of magdi session suspend */
+
+
+
+
+
 .osama-section {
     background-color: #FAFAFA;
     font-family: "Scope One";
