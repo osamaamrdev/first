@@ -122,6 +122,39 @@ header p
 
 }
 
+/* Maher */
+
+
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#About
+{
+    font-family: "Scope One", serif;
+}
+.image
+{
+    border:1px solid #dee2e6;
+    padding: 0.35rem;
+}
+.content h3
+{
+font-size: 1.45em;
+font-weight: 700;
+}
+.content p{
+    color: #f8f9fa;
+}
+.content .btn
+{
+   background-color: #3498db;
+}
+
+/* End Of Maher */
+
 
 
 /*start of magdi session suspend */
